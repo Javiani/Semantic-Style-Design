@@ -37,7 +37,7 @@ Component's class names should be exactly the file name.
     border :1px solid #ededed;
     border-radius:30%
 
-    &-disabled{ /* ... */ }
+    &.-disabled{ /* ... */ }
 }
 ```
 
