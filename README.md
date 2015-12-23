@@ -61,11 +61,9 @@ Component's class names should be exactly the file name.
 
 ### Layouts
 
-Layout is the skeleton of the sections of a page, some reusable layout section.
-It can be simple as a `content-sidebar-footer` or very complex with several structures and variations, or just a combination of several layout pieces.
-It is up to you to break it on folders or not, and naming folders following your project standard.
+Layout is the skeleton of a page, reusable layout sections, it's where you will gonna use your grid systems.
+It can be simple as a `content-sidebar-footer` or very complex with several structures and variations, or just a combination of several layout pieces. It is up to you to break it on folders or not, and naming folders following your project standard.
 
-It should be used every time you need to reuse some layout structure.
 
 ### Pages
 
