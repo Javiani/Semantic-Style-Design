@@ -13,7 +13,7 @@ Semantic Style Design is just a Css architecture proposal, based on some very co
 On SSD you should have only 3 abstractions:
 
 - /Components
-- /Templates
+- /Layouts
 - /Pages
 
 ### Components
